@@ -13,7 +13,7 @@ Lately, I've been diving into the world of **AI** — exploring how it can seaml
 - 📫 You can reach me on:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eevan7a9/)  
   [![Website](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?&style=flat&logo=google-chrome&logoColor=white)](https://evanmarc.com)  
-  [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=flat&logo=telegram&logoColor=white)](https://evanmarc.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=flat&logo=telegram&logoColor=white)](https://t.me/eevan7a9)
 
 ---
 
